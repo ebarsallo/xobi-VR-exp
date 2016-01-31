@@ -3,6 +3,7 @@ A virtual **tic tac toe** game using a google cardboard.
 
 
 ### SDK
+- [Cardboard SDK for Android](https://developers.google.com/cardboard/android/)
 
 ### Cardboard Models
 - http://www.amazon.com/dp/B00LZGN63G/
