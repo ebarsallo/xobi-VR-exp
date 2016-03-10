@@ -6,8 +6,9 @@ A virtual **tic tac toe** game using a google cardboard.
 - [Cardboard SDK for Android](https://developers.google.com/cardboard/android/)
 
 ### Cardboard Models
-- http://www.amazon.com/dp/B00LZGN63G/
-- http://www.amazon.com/dp/B00Q1FITMO
+- [Amazon: I AM CARDBOARD 45mm Focal Length Virtual Reality Cardboard Kit](http://www.amazon.com/dp/B00LZGN63G/)
+- [Amazon: Google Cardboard Kit by D-scope Pro](http://www.amazon.com/dp/B00Q1FITMO)
+- [Google Cardboard models](https://store.google.com/category/virtual_reality)
 
 ===
 #### References:
